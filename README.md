@@ -47,7 +47,7 @@ This project demonstrates:
 
 1. Clone the repository.
 2. Update the file paths in the notebook with your local directories.
-3. Run the Jupyter Notebook `cleaned_analysis.ipynb`.
+3. Run the Jupyter Notebook `RegressionFactorAnalysis.ipynb`.
 
 ---
 
