@@ -55,7 +55,7 @@ This project demonstrates:
 
 ```
 📦 project/
- ┣ 📜 cleaned_analysis.ipynb
+ ┣ 📜 RegressionFactorAnalysis.ipynb
  ┣ 📜 README.md
  ┗ 📁 data/
      ┣ 📄 sp_index.xlsx
